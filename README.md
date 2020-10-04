@@ -53,7 +53,7 @@ RPGツクールMV用プラグインを移植予定です!
 興味あるものは積極的に雑多に色々触っています!
 
 - Web Development
-    - JavaScript / JavaScript
+    - JavaScript / TypeScript
     - Python
     - PHP
     - HTML5 / CSS3
