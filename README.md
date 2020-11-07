@@ -5,8 +5,13 @@
 
 RPGツクールMV用プラグインを移植予定です!
 
+<!-- UTA_CommonSaveMZ -->
 <a href="https://github.com/t-akatsuki/UTA_CommonSaveMZ" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-akatsuki&repo=UTA_CommonSaveMZ">
+</a>
+<!-- UTA_MessageSkipMZ -->
+<a href="https://github.com/t-akatsuki/UTA_MesasgeSkipMZ" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-akatsuki&repo=UTA_MessageSkipMZ">
 </a>
 
 ## :electric_plug:RPGツクールMV用プラグイン
