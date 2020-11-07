@@ -10,7 +10,7 @@ RPGツクールMV用プラグインを移植予定です!
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-akatsuki&repo=UTA_CommonSaveMZ">
 </a>
 <!-- UTA_MessageSkipMZ -->
-<a href="https://github.com/t-akatsuki/UTA_MesasgeSkipMZ" target="_blank">
+<a href="https://github.com/t-akatsuki/UTA_MessageSkipMZ" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t-akatsuki&repo=UTA_MessageSkipMZ">
 </a>
 
